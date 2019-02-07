@@ -1,0 +1,60 @@
+.card-container{
+    display: flex;
+   flex-direction: column; 
+   margin: 1em;
+  height: 300px;
+  width: 300px;
+  box-shadow: 3px 3px 25px #424242;
+  text-align: center;
+  background-color: black;
+  top: 100px;
+
+
+}
+.update{
+   margin-left: 10px;
+}
+
+.header{
+   font-family: 'Josefin Sans', sans-serif;
+   margin:auto;
+   color: palevioletred
+}
+
+.mat-card-subtitle{
+   color: peru;
+}
+.image{
+   height: 100px;
+   width: 200px;
+   margin-left: 50px;
+   
+}
+.mat-fab.mat-accent, .mat-flat-button.mat-accent, .mat-mini-fab.mat-accent, .mat-raised-button.mat-accent{
+   background-color: #9c1148;
+   margin-left:10px;
+}
+
+.material-icons{
+   color: burlywood;
+}
+/* Making the UI responsive adding media queries */
+/*  Extra small devices  */
+
+/* @media(max-width:575px){
+
+} */
+
+/* .button-raised{
+   display: flex;
+   margin-left: 100px;
+   
+} */
+/* .mat-button{
+   padding-left: 10px;
+} */
+
+
+
+
+
